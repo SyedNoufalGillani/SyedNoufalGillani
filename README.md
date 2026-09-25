@@ -45,12 +45,12 @@ At **Jeeny**, I've worked across passenger, driver, delivery, and corporate tran
 
 #### 📱 Jeeny Passenger — Consumer Ride-Hailing Platform @ Jeeny
 - Owned and shipped core Ride-Hailing, Scheduled Rides, and Delivery experiences in Jeeny's **5M+ download** passenger application.
-- Led the XML → Jetpack Compose modernization using Clean Architecture and MVVM/MVI
+- Led the XML → Jetpack Compose modernization using Clean Architecture and MVVM/MVI.
 - Integrated payments, loyalty, subscriptions, partner SDKs, analytics, deep linking, and experimentation infrastructure.
 
 #### 🚗 Jeeny Driver — Driver Mobility Platform @ Jeeny
 - Built core driver-facing ride offer/accept and driver-tiering workflows supporting Jeeny's **1M+ active-driver** ecosystem, helping reduce offer timeout rates by **8%**.
-- Integrated Google ML Kit and media capture for document verification and identity onboarding
+- Integrated Google ML Kit and media capture for document verification and identity onboarding.
 - Automated unit/integration testing that raised repository coverage to **78%**.
 
 #### 🚘 Chauffr — Corporate Ride Ecosystem @ Jeeny
@@ -87,6 +87,6 @@ Android Architecture · Kotlin Multiplatform · Compose Multiplatform · Scalabl
 
 ### Connect
 
-[Email](mailto:noufalgillani@gmail.com)
+[Email](mailto:noufalgillani@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/syednoufalgillani) ·
 [GitHub](https://github.com/SyedNoufalGillani)
